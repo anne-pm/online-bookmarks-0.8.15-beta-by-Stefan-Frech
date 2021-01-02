@@ -5,7 +5,8 @@
 #### On fossies<span>.</span>org (vers. 0.8.15 beta)
 
 [website] https://fossies.org/linux/privat/online-bookmarks-0.8.15_beta.tar.gz/ <br>
-[file] https://fossies.org/linux/privat/online-bookmarks-0.8.15_beta.tar.gz
+[file] http://fossies.org/linux/privat/online-bookmarks-0.8.15_beta.zip <br>
+[archived file] https://web.archive.org/web/20140806020449/http://fossies.org/linux/privat/online-bookmarks-0.8.15_beta.zip <br>
 
 #### At the Internet Archive (vers. 0.8.14 beta)
 
