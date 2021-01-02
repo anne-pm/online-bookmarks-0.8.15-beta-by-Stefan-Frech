@@ -1,5 +1,10 @@
 ## online-bookmarks 0.8.15 beta<br> by Stefan Frech
 
+### Description 
+
+> With Online-Bookmarks you have the possibility to gain a multiuser Bookmark management system that keeps Bookmarks, Favorites and Links online, where they actually are needed. It makes it easy to store browser URL's central and access them from anywhere. Share site experiences with others in a social-bookmarking manner or keep your bookmarks private and safe as you like. It has never been easier to manage data properties at once, such as editing, moving, deleting or sharing. It is also possible to import/export Favorites from and to the most common browsers, such as Microsoft Internet Explorer, Mozilla, Opera and Netscape. Benefit from some nice addons that makes Online-Bookmarks really convenient.<br> 
+--- Source: https://www.hotscripts.com/listing/online-bookmarks/
+
 ### Download locations
 
 #### On fossies<span>.</span>org (vers. 0.8.15 beta)
