@@ -11,7 +11,7 @@
 
 [website] https://fossies.org/linux/privat/online-bookmarks-0.8.15_beta.tar.gz/ <br>
 [file] http://fossies.org/linux/privat/online-bookmarks-0.8.15_beta.zip <br>
-[archived file] https://web.archive.org/web/20140806020449/http://fossies.org/linux/privat/online-bookmarks-0.8.15_beta.zip <br>
+[archived file] https://web.archive.org/web/20210102002557/https://raw.githubusercontent.com/anne-pm/online-bookmarks-0.8.15-beta-by-Stefan-Frech/main/online-bookmarks-0.8.15_beta.tar.gz <br> https://web.archive.org/web/20140806020449/http://fossies.org/linux/privat/online-bookmarks-0.8.15_beta.zip <br>
 
 #### At the Internet Archive (vers. 0.8.14 beta)
 
